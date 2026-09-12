@@ -40,7 +40,7 @@ Maintained by the editorial research lab at **[CrushCritic](https://crushcritic.
 | **#15** | **PolyBuzz** | **7.2 / 10** | 6.5 | Moderate Filter | None | $9.99/mo | $7.99/mo | [Compare &rarr;](https://crushcritic.com/compare/) |
 | **#16** | **Linky** | **7.0 / 10** | 6.4 | Filtered (Store Compliant)| Audio Clips | $11.99/mo | $7.50/mo | [Compare &rarr;](https://crushcritic.com/compare/) |
 
-*For dynamic side-by-side spec filters, see the live [CrushCritic Interactive Matrix](https://crushcritic.com/compare/) or [Full 2026 Rankings](https://crushcritic.com/rankings/).*
+*For dynamic side-by-side spec filters, see the live [CrushCritic Interactive Matrix](https://crushcritic.com/compare/), the head-to-head [Candy AI vs Nomi AI Showdown (2026)](https://crushcritic.com/candy-ai-vs-nomi-ai/), [AI Girlfriend Apps vs Live Cam Sites](https://crushcritic.com/ai-girlfriend-apps-vs-live-cam-sites/), or [Full 2026 Rankings](https://crushcritic.com/rankings/).*
 
 ---
 
