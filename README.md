@@ -1,11 +1,11 @@
 # AI Companion & Virtual Girlfriend Benchmarks (2026)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Dataset Version](https://img.shields.io/badge/Dataset-2026.09-blue.svg)](data/benchmarks-2026.json)
+[![Dataset Version](https://img.shields.io/badge/Dataset-2026.10-blue.svg)](data/benchmarks-2026.json)
 [![Platforms Audited](https://img.shields.io/badge/Platforms%20Audited-16-green.svg)](data/benchmarks-2026.csv)
 [![Audited by](https://img.shields.io/badge/Audited%20by-CrushCritic-ff2d6f.svg)](https://crushcritic.com)
 
-An empirical benchmark dataset and consumer testing audit evaluating **16 leading AI companion and virtual girlfriend platforms**. Testing was conducted firsthand over 200+ hours of conversational interaction, measuring long-term memory retention, filter censorship, multimedia generation latency, privacy policies, and recurring subscription economics.
+An empirical benchmark dataset and consumer testing audit evaluating **16 leading AI companion and virtual girlfriend platforms**. Testing was conducted firsthand over 250+ hours of conversational interaction, measuring long-term memory retention, filter censorship, multimedia generation latency, privacy policies, and recurring subscription economics (Updated September 30, 2026).
 
 Maintained by the editorial research lab at **[CrushCritic](https://crushcritic.com)**.
 
@@ -38,9 +38,15 @@ Maintained by the editorial research lab at **[CrushCritic](https://crushcritic.
 | **#13** | **Chub AI** | **7.6 / 10** | 8.4 | Fully Uncensored | None | $5.00/mo | $50.00/yr | [Compare &rarr;](https://crushcritic.com/compare/) |
 | **#14** | **Talkie AI** | **7.4 / 10** | 6.8 | Filtered (Store Compliant)| Voice Cards | $9.99/mo | $5.99/mo | [Compare &rarr;](https://crushcritic.com/compare/) |
 | **#15** | **PolyBuzz** | **7.2 / 10** | 6.5 | Moderate Filter | None | $9.99/mo | $7.99/mo | [Compare &rarr;](https://crushcritic.com/compare/) |
-| **#16** | **Linky** | **7.0 / 10** | 6.4 | Filtered (Store Compliant)| Audio Clips | $11.99/mo | $7.50/mo | [Compare &rarr;](https://crushcritic.com/compare/) |
+| **#16** | **Linky** | **7.0 / 10** | 6.4 | Filtered (App Store Compliant)| Audio Clips | $11.99/mo | $7.50/mo | [Compare &rarr;](https://crushcritic.com/compare/) |
 
-*For dynamic side-by-side spec filters, see the live [CrushCritic Interactive Matrix](https://crushcritic.com/compare/), the head-to-head [Candy AI vs Nomi AI Showdown (2026)](https://crushcritic.com/candy-ai-vs-nomi-ai/), [AI Girlfriend Apps vs Live Cam Sites](https://crushcritic.com/ai-girlfriend-apps-vs-live-cam-sites/), or [Full 2026 Rankings](https://crushcritic.com/rankings/).*
+*For dynamic side-by-side spec filters, see the live [CrushCritic Interactive Matrix](https://crushcritic.com/compare/), the [18+ Uncensored AI Girlfriends Directory](https://crushcritic.com/porn/), the head-to-head [Candy AI vs Nomi AI Showdown (2026)](https://crushcritic.com/candy-ai-vs-nomi-ai/), or [Full 2026 Rankings](https://crushcritic.com/rankings/).*
+
+### 📖 Laboratory Prompt & Studio Guides (September 2026)
+* **[Candy AI Prompts & Chat Requests Master Guide (50+ Tested Prompts)](https://crushcritic.com/candy-ai-prompts-and-chat-requests-guide/)**: In-depth roleplay scenarios, persona calibration, and token usage optimization.
+* **[How to Request Custom Photos & Voice Notes on Candy AI](https://crushcritic.com/how-to-request-photos-and-voice-notes-on-candy-ai/)**: Technical mechanics of triggering realistic multimedia and audio notes without prompt degradation.
+* **[Candy AI "Direct Her" Mode Prompts Cheat Sheet](https://crushcritic.com/candy-ai-direct-her-mode-prompts-cheat-sheet/)**: Tested lens settings, camera angles, lighting conditions, and dynamic poses.
+* **[Candy AI Character Creator Studio Guide](https://crushcritic.com/candy-ai-character-creator-studio-guide/)**: Building customized photorealistic and anime waifu models from prompt seeds.
 
 ---
 

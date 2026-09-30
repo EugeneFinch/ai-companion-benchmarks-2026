@@ -1,9 +1,9 @@
 {
-  "version": "2026.09",
-  "last_updated": "2026-09-11",
+  "version": "2026.10",
+  "last_updated": "2026-09-30",
   "maintainer": "CrushCritic (https://crushcritic.com)",
   "total_platforms": 16,
-  "methodology_hours_logged": 200,
+  "methodology_hours_logged": 250,
   "platforms": [
     {
       "slug": "candy-ai",
@@ -21,7 +21,13 @@
       "trains_on_user_data": "Yes",
       "sells_data": "Aggregated/Service Providers",
       "deletion_window": "30 days",
-      "lab_url": "https://crushcritic.com/candy-ai-review-2026-features-pricing-honest-verdict/"
+      "lab_url": "https://crushcritic.com/candy-ai-review-2026-features-pricing-honest-verdict/",
+      "guide_urls": [
+        "https://crushcritic.com/candy-ai-prompts-and-chat-requests-guide/",
+        "https://crushcritic.com/how-to-request-photos-and-voice-notes-on-candy-ai/",
+        "https://crushcritic.com/candy-ai-direct-her-mode-prompts-cheat-sheet/",
+        "https://crushcritic.com/candy-ai-character-creator-studio-guide/"
+      ]
     },
     {
       "slug": "kupid-ai",
