@@ -44,6 +44,12 @@ Maintained by the editorial research lab at **[CrushCritic](https://crushcritic.
 
 ### 📖 Laboratory Prompt & Studio Guides (September 2026)
 * **[Candy AI Prompts & Chat Requests Master Guide (50+ Tested Prompts)](https://crushcritic.com/candy-ai-prompts-and-chat-requests-guide/)**: In-depth roleplay scenarios, persona calibration, and token usage optimization.
+* **[Candy AI Video Generator & "Make Her" Guide (2026)](https://crushcritic.com/candy-ai-video-generator-make-her-guide/)**: Motion choreography, camera angles, and uncensored video synthesis benchmarked.
+* **[Top Goth & Alt AI Girlfriend Personas (2026)](https://crushcritic.com/best-goth-ai-girlfriend-apps/)**: Dark romance roleplay, sarcastic wit, and alternative aesthetics tested.
+* **[AI Companions for Gamers: Gaming POV & Streamers](https://crushcritic.com/ai-companions-for-gamers/)**: Esports meta fluency, Discord voice headset chat, and couch co-op roleplay.
+* **[Best AI Boyfriend Apps (2026)](https://crushcritic.com/best-ai-boyfriend-apps-2026/)**: Uncensored male AI chat, protective romantic personas, and deep baritone audio.
+* **[Best SFW AI Companions for Emotional Support](https://crushcritic.com/best-sfw-ai-companions/)**: Attentive listening, multi-week memory, and daily anxiety/burnout decompression.
+* **[Best Solo AI Chat & Private Adult Roleplay](https://crushcritic.com/best-solo-ai-chat-apps/)**: Encrypted 1-on-1 private dialogue, zero chat logging, and 100% filterless intimacy.
 * **[How to Request Custom Photos & Voice Notes on Candy AI](https://crushcritic.com/how-to-request-photos-and-voice-notes-on-candy-ai/)**: Technical mechanics of triggering realistic multimedia and audio notes without prompt degradation.
 * **[Candy AI "Direct Her" Mode Prompts Cheat Sheet](https://crushcritic.com/candy-ai-direct-her-mode-prompts-cheat-sheet/)**: Tested lens settings, camera angles, lighting conditions, and dynamic poses.
 * **[Candy AI Character Creator Studio Guide](https://crushcritic.com/candy-ai-character-creator-studio-guide/)**: Building customized photorealistic and anime waifu models from prompt seeds.
